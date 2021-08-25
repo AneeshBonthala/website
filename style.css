@@ -1,8 +1,7 @@
 * {
     background-color: antiquewhite;
-    text-align: center;
 }
 
-.text {
-    display: inline-block; text-align: left;
+.ex {
+    text-align: center;
 }
