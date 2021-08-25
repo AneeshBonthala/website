@@ -3,6 +3,10 @@
     text-align: center;
 }
 
-#text {
+.text {
     display: inline-block; text-align: left;
+}
+
+#list {
+    text-align: left;
 }
